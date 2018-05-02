@@ -162,3 +162,4 @@ let g:ycm_collect_identifiers_from_comments_and_strings = 0
 
 nnoremap <leader>gd :YcmCompleter GoToDefinition<CR> "跳转到定义处
 nnoremap <leader>gl :YcmCompleter GoToDeclaration<CR> "跳转到定义处
+
